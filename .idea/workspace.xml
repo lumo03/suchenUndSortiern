@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9bd6317-9dea-4ab5-9f0b-9f873cdc15cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sortieren/InsertionSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-informatik-q1g6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortieren/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortieren/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortieren/MinSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortieren/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_sorting/TestInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_sorting/TestInsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_sorting/TestMinSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_sorting/TestSelectionSort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20kEH1JMBwuQc3AHzNzLXXO0uv6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="InsertionSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="suchenUndSortiern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortieren.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sortieren" />
+      <option name="MAIN_CLASS_NAME" value="sortieren.InsertionSortTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InsertionSortTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9bd6317-9dea-4ab5-9f0b-9f873cdc15cf" name="Changes" comment="" />
+      <created>1636580094170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636580094170</updated>
+    </task>
+    <servers />
+  </component>
+</project>
